@@ -12,17 +12,6 @@ Identifies the longest feedback based on word count.
 Finds unique words from all feedback entries.
 Sorts feedback records based on customer ratings.
 
-## Sample Analysis
-
-### The program provides insights such as:
-
-Number of feedbacks containing good
-Number of feedbacks containing poor
-Number of feedbacks containing excellent
-Overall average rating
-Longest feedback
-Unique words
-Feedback records sorted by rating
 
 ## Tools & Technologies
 
